@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  main.cpp
- *
- *    Description: Minimalistic project example that uses both Qt and OpenSceneGraph libraries. 
- *
- *        Version:  1.0
- *        Created:  30-Jun-16 10:23:06 AM
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Victoria Rudakova (vicrucann@gmail.com), 
- *   Organization:  vicrucann.github.io
- *
- * =====================================================================================
- */
 #include <stdlib.h>
 #include <stdio.h>
 #include <iostream>
